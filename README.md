@@ -1,7 +1,4 @@
 # Happy Sourcing & Recruiting :heart:
-Hellos/ Namaste / Sewaro :pray:
-
-I'm [Nanda Kishore Subba](https://www.linkedin.com/in/nandakishoresubba/) and I'm a full stack recruiter with deep interest in sourcing & recruiting. I just love the process of finding top talent for a given role. I've experience working with early stage ventures/startups- most recently got a chance to build 2 early stage tech startups from a talent perspective.
 
 I created this, all because I'm curious and I want to learn from the smartest people around the world on cool stuff related to sourcing and recruitng. And share my experience with you :raised_hands: :muscle: :sunglasses: 
 <br />
